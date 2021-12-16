@@ -1,4 +1,4 @@
-# EXEMPLOS --- LANDING PAGES PARA PRATICAR
+# practice-landingpage
 
 ## INTEGRANTE
 Nome      | Sobrenome
