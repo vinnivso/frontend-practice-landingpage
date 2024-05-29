@@ -1,4 +1,4 @@
-# practice-landingpage
+# frontend-practice-landingpage
 
 ## INTEGRANTE
 Nome      | Sobrenome
